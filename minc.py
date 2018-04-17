@@ -1,0 +1,2 @@
+token = '525506483:AAGdiva4uAiDttHsqqPgp97A3f8NfYpX9zk'
+key = '74bd1248d1242e497c842c6f14ae539959085a513da9f8cbe9f5aea0ee8a06f93effb8d06124a8b3db075'
